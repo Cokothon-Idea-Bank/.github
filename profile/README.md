@@ -7,12 +7,11 @@
 
 | 학교      | 학번       | 이름                                     | 분야                                                                                                            |
 |---------|----------|----------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 국민대학교   | 20203160 | [한준교](https://github.com/Ready-Bridge) | ![Backend](https://img.shields.io/badge/Backend-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   |
-| 국민대학교   | 20233478 | [윤준현](https://github.com/yjhleo1215)   | ![Frontend](https://img.shields.io/badge/Frontend-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| 국민대학교   | 20243156 | [손대현](https://github.com/son-daehyeon) | ![Backend](https://img.shields.io/badge/Backend-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   |
 | 숙명여자대학교 |          | [김서윤](https://github.com/seoyoon04)    | ![Frontend](https://img.shields.io/badge/Frontend-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | 숙명여자대학교 |          | [김혜림](https://github.com/kimhyerims)   | ![Frontend](https://img.shields.io/badge/Frontend-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) |
-
+| 국민대학교   | 20233478 | [윤준현](https://github.com/yjhleo1215)   | ![Frontend](https://img.shields.io/badge/Frontend-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| 국민대학교   | 20203160 | [한준교](https://github.com/Ready-Bridge) | ![Backend](https://img.shields.io/badge/Backend-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   |
+| 국민대학교   | 20243156 | [손대현](https://github.com/son-daehyeon) | ![Backend](https://img.shields.io/badge/Backend-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   |
 
 ## Tech Stack
 
